@@ -1,0 +1,99 @@
+{
+  "indices": [
+    {
+      "title": "Agents",
+      "description": "AI agent related repositories.",
+      "url": "https://github.com/danielrosehill/Agents-Index"
+    },
+    {
+      "title": "AI Projects",
+      "description": "AI project related indices (master index).",
+      "url": "https://github.com/danielrosehill/AI-Projects-Index"
+    },
+    {
+      "title": "Apps",
+      "description": "Apps created.",
+      "url": "https://github.com/danielrosehill/Apps-Index"
+    },
+    {
+      "title": "Awesome List Repos",
+      "description": "Listing repositories I have created.",
+      "url": "https://github.com/danielrosehill/Awesome-List-Repos-Index"
+    },
+    {
+      "title": "Backup Projects",
+      "description": "Backup related projects and scripts.",
+      "url": "https://github.com/danielrosehill/Backup-Projects-Index"
+    },
+    {
+      "title": "Claude Code Repos",
+      "description": "Repositories related to Claude Code CLI.",
+      "url": "https://github.com/danielrosehill/Claude-Code-Repos-Index"
+    },
+    {
+      "title": "Context Projects",
+      "description": "Projects related to context-gathering and generation for AI, including via interview approaches.",
+      "url": "https://github.com/danielrosehill/Context-Projects-Index"
+    },
+    {
+      "title": "Data Projects",
+      "description": "Data apps and datasets deployed to Streamlit Community Cloud, Hugging Face, and elsewhere.",
+      "url": "https://github.com/danielrosehill/Data-Projects-Index"
+    },
+    {
+      "title": "Development Projects",
+      "description": "Combined indexer for projects on Github and Hugging Face.",
+      "url": "https://github.com/danielrosehill/Development-Project-Index"
+    },
+    {
+      "title": "Docs And Notes",
+      "description": "Documentation projects, both on Github and elsewhere.",
+      "url": "https://github.com/danielrosehill/Docs-And-Notes-Index"
+    },
+    {
+      "title": "Experiments And Evaluations",
+      "description": "Repositories concerning AI evaluations and experiments.",
+      "url": "https://github.com/danielrosehill/Experiments-And-Evaluations-Index"
+    },
+    {
+      "title": "Github Master",
+      "description": "A repository that indexes my Github projects.",
+      "url": "https://github.com/danielrosehill/Github-Master-Index"
+    },
+    {
+      "title": "Home Assistant",
+      "description": "Home Assistant projects.",
+      "url": "https://github.com/danielrosehill/Home-Assistant-Index"
+    },
+    {
+      "title": "Homebox Projects",
+      "description": "Homebox related projects (home inventory system).",
+      "url": "https://github.com/danielrosehill/Homebox-Projects-Index"
+    },
+    {
+      "title": "Israel Projects",
+      "description": "Repositories related to Israel.",
+      "url": "https://github.com/danielrosehill/Israel-Projects-Index"
+    },
+    {
+      "title": "MCP Projects",
+      "description": "Various MCP related projects I'm either working on (or have worked on).",
+      "url": "https://github.com/danielrosehill/MCP-Projects-Index"
+    },
+    {
+      "title": "N8N Workflows",
+      "description": "N8N workflows shared on Github.",
+      "url": "https://github.com/danielrosehill/N8N-Workflows-Index"
+    },
+    {
+      "title": "Prompt Libraries",
+      "description": "Collections of user and system prompts on Github.",
+      "url": "https://github.com/danielrosehill/Prompt-Libraries-Index"
+    },
+    {
+      "title": "Speech Tech",
+      "description": "Repos related to STT, ASR.",
+      "url": "https://github.com/danielrosehill/Speech-Tech-Index"
+    }
+  ]
+}
