@@ -216,6 +216,14 @@ Index of GitHub management tools.
 
 ---
 
+### Hardware-Blueprints-Index
+
+Physical builds documented well enough to order the parts and assemble them — bills of materials, sourcing, wiring and enclosure specs, firmware plans.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Hardware-Blueprints-Index)
+
+---
+
 ### Home-Assistant-Index
 
 Index of Home Assistant related projects.
