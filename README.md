@@ -264,6 +264,14 @@ A comprehensive index of Israel-related repositories, datasets, and Hugging Face
 
 ---
 
+### Israel-Reference-Repos
+
+Israel-related reference material — standards, regulations, classification codes, datasets, directories and translated official guidance. Repos where the data or documented rule is the payload, not an application built on it.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Israel-Reference-Repos)
+
+---
+
 ### Jewish-Related-Index
 
 Index of Jewish-related projects on GitHub covering AI tools, Home Assistant automations for Shabbat/Yom Tov, and Torah tech resources.
