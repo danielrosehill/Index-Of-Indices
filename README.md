@@ -256,14 +256,6 @@ A curated index of Homebox-related projects and tools including MCP server integ
 
 ---
 
-### Ideas-Index
-
-Index of ideas.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Ideas-Index)
-
----
-
 ### Israel-Preparedness-Index
 
 Index of Israel preparedness projects.
@@ -461,6 +453,62 @@ Index of voice typing, dictation, and speech-to-text applications and utilities.
 Index of work-in-progress repositories at various stages of development, from early ideas and planning notes to partially built tools.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/WIP-Index)
+
+---
+
+### Apps-Index
+
+Index of apps created.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Apps-Index)
+
+---
+
+### Browser-Scripts-Index
+
+Index of browser userscripts written for Tampermonkey, Violentmonkey and Greasemonkey.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Browser-Scripts-Index)
+
+---
+
+### Development-Project-Index
+
+Combined indexer covering projects published on both GitHub and Hugging Face.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Development-Project-Index)
+
+---
+
+### Google-Fonts-Tools-Index
+
+Index of utilities for installing and using Google Fonts, with a focus on Linux installers (CLI and GUI) and libraries.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Google-Fonts-Tools-Index)
+
+---
+
+### Hebrew-Language-Projects-Index
+
+Index of projects for working with Hebrew: translation, TTS, LLMs, fonts, calendar, and more.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Hebrew-Language-Projects-Index)
+
+---
+
+### Israel-Agent-Skills-Dev-Index
+
+Index of work-in-progress skills-development repos feeding into Israel-Agent-Skills-Dev and the Claude-Israel-Agent-Skills-Plugin.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Israel-Agent-Skills-Dev-Index)
+
+---
+
+### Printables-Index
+
+Index of printable reference posters — print-ready wall posters built from HTML/CSS and rendered to PDF.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Printables-Index)
 
 ---
 
