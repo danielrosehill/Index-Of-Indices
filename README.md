@@ -48,6 +48,14 @@ A periodically updated list of AI agent configurations shared on GitHub and rela
 
 ---
 
+### AI-Assisted-Policymaking-Index
+
+Repositories that use AI to formulate and explore public policy — manifestos, policy papers, multi-lens deliberation runs, and the research workspaces behind them. Policy made with AI, not policy about AI.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Assisted-Policymaking-Index)
+
+---
+
 ### AI-Projects-Index
 
 Index of AI project repositories including demos, POCs, system prompts, and related tools.
