@@ -21,6 +21,11 @@
       "url": "https://github.com/danielrosehill/Open-Research-Workspaces-Index"
     },
     {
+      "title": "Agent Reference Workflows",
+      "description": "Repositories that each demonstrate one agentic workflow end to end on a real task — the stages that worked, the wrong turns, and where a human is still required. Working context for plugin design.",
+      "url": "https://github.com/danielrosehill/Agent-Reference-Workflows"
+    },
+    {
       "title": "Agent Assisted Purchase Research",
       "description": "Templates, agent skills, and demos for using AI agents to drive consumer purchase research — spec-first, then product matching, then availability checks.",
       "url": "https://github.com/danielrosehill/Agent-Assisted-Purchase-Research-Index"

@@ -4,7 +4,7 @@
 
 Meta-index of Daniel Rosehill's own indexing repositories — collections of personal projects organized by theme.
 
-**Last Updated:** April 2026
+**Last Updated:** August 2026
 
 ---
 
@@ -21,6 +21,14 @@ Tools, agents, and assistants for generating presentations and decks with AI. Sc
 Curated resources on architecture and interior design — tools, repos, and experiments collected for sharing with an architect.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Arch-And-Interiors-Index)
+
+---
+
+### Agent-Reference-Workflows
+
+Repositories that each demonstrate one agentic workflow end to end on a real task — the stages that worked, the wrong turns, and where a human is still required. Kept as working context for plugin design.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Agent-Reference-Workflows)
 
 ---
 
