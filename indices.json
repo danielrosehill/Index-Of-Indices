@@ -81,6 +81,11 @@
       "url": "https://github.com/danielrosehill/Claude-Code-Sysadmin-Workspaces-Index"
     },
     {
+      "title": "Claude-Mental-Health-Templates-Index",
+      "description": "Claude Code templates, plugins and workspaces for mental health work a person does on their own material — issue-bounded workspaces, therapy tracking, appointment preparation, and the portable personal context layer underneath them. Nothing indexed there assesses, scores or diagnoses.",
+      "url": "https://github.com/danielrosehill/Claude-Mental-Health-Templates-Index"
+    },
+    {
       "title": "Claude-Slash-Commands",
       "description": "Index of Claude slash commands.",
       "url": "https://github.com/danielrosehill/Claude-Slash-Commands"
